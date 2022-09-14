@@ -19,6 +19,13 @@ Remove the null values from the data
 Save the Clean data to the file
 
 # CODE
+~~~
+Program developed by: KATHIRVEL.A
+Register number: 21221230047
+
+~~~
+
+
 
 import pandas as pd
 import numpy as np
